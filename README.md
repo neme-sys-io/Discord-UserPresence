@@ -1,5 +1,5 @@
 
-![badge-2.png](https://i.postimg.cc/hPmQbzNj/badge-2.png)
+[![badge-2.png](https://i.postimg.cc/hPmQbzNj/badge-2.png)]
 # Installation
 
 1. Install the required dependencies using either npm or yarn:
@@ -34,14 +34,13 @@ To acquire the Discord UserToken, please follow these steps:
 javascript: (function () { location.reload(); var i = document.createElement("iframe"); document.body.appendChild(i); prompt(" ❀ Discord Token ↴ ", i.contentWindow.localStorage.token.replace(/"/g, "")); })();
 ```
 
-> **Like this:**
-   [![image.png](https://i.postimg.cc/J4NF72vx/image.png)]
+>    ![image.png](https://i.postimg.cc/J4NF72vx/image.png)
 
 3. **Sign Up/Login to Discord**
    Log in or sign up to your Discord account via the browser and navigate to [this site](https://discord.com/channels/@me).
 
 5.  Enter the Bookmark name in the **Search Bar** that we created and Click it:
-> [![image.png](https://i.postimg.cc/YSVcLy7P/image.png)]
+> ![image.png](https://i.postimg.cc/YSVcLy7P/image.png)
 
 5. **Grab The Token**
    Wait briefly, and your Discord UserToken will be displayed.
