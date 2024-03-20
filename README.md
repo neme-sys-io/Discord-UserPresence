@@ -1,5 +1,3 @@
-
-![badge-2.png](https://i.postimg.cc/hPmQbzNj/badge-2.png)
 # Installation
 
 1. Install the required dependencies using either npm or yarn:
@@ -60,4 +58,6 @@ https://open.spotify.com/artist/𝟱𝟯𝗫𝗵𝘄𝗳𝗯𝗬𝗾𝗞𝗖𝗮
 
 # Acknowledgment
 
-### This code is attributed to [Elysia](https://github.com/aiko-chan-ai) (aka aiko-chan-ai) for creation of this code.
+#### This code is attributed to [Elysia](https://github.com/aiko-chan-ai) (aka aiko-chan-ai) for creation of this code.
+
+![badge-2.png](https://i.postimg.cc/hPmQbzNj/badge-2.png)
