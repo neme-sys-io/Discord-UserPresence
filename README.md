@@ -1,5 +1,3 @@
-
-[![badge-2.png](https://i.postimg.cc/hPmQbzNj/badge-2.png)]
 # Installation
 
 1. Install the required dependencies using either npm or yarn:
