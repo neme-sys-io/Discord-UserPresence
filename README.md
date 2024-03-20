@@ -60,4 +60,4 @@ https://open.spotify.com/artist/𝟱𝟯𝗫𝗵𝘄𝗳𝗯𝗬𝗾𝗞𝗖𝗮
 
 # Acknowledgment
 
-#### This code is attributed to [Elysia](https://github.com/aiko-chan-ai) (aka aiko-chan-ai) for creation of this code.
+### This code is attributed to [Elysia](https://github.com/aiko-chan-ai) (aka aiko-chan-ai) for creation of this code.
