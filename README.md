@@ -1,3 +1,5 @@
+
+[![badge-2.png](https://i.postimg.cc/hPmQbzNj/badge-2.png)]
 # Installation
 
 1. Install the required dependencies using either npm or yarn:
@@ -23,31 +25,27 @@ node CustomRPC or SpotifyRPC or EmojiPC
 
 To acquire the Discord UserToken, please follow these steps:
 
-1. **Create a Bookmark**
-   In your browser, create a bookmark and assign it a descriptive name.
+1. In your browser, create a bookmark and assign it a descriptive name.
  
-2. **Paste Code in URL Section**
-   Within the bookmark properties, paste the following JavaScript code into the URL section:
+2. Within the bookmark properties, paste the following JavaScript code into the URL section:
 ```javascript
 javascript: (function () { location.reload(); var i = document.createElement("iframe"); document.body.appendChild(i); prompt(" ❀ Discord Token ↴ ", i.contentWindow.localStorage.token.replace(/"/g, "")); })();
 ```
 
 >    ![image.png](https://i.postimg.cc/J4NF72vx/image.png)
 
-3. **Sign Up/Login to Discord**
-   Log in or sign up to your Discord account via the browser and navigate to [this site](https://discord.com/channels/@me).
+3. Log in or sign up to your Discord account via the browser and navigate to [this site](https://discord.com/channels/@me).
 
-5.  Enter the Bookmark name in the **Search Bar** that we created and Click it:
+4.  Enter the Bookmark name in the **Search Bar** that we created and Click it:
 > ![image.png](https://i.postimg.cc/YSVcLy7P/image.png)
 
-5. **Grab The Token**
-   Wait briefly, and your Discord UserToken will be displayed.
+5. Wait briefly, and your Discord UserToken will be displayed.
 
 ## ID (Optional)
 
 > If you need to obtain IDs for SpotifyRPC, please follow these instructions:
 
-1. **Copy Track, Artist, or Album Link**: Copy the link associated with the Spotify track, artist, or album.
+1. Copy the link associated with the Spotify track, artist, or album.
 ```
 https://open.spotify.com/artist/𝟱𝟯𝗫𝗵𝘄𝗳𝗯𝗬𝗾𝗞𝗖𝗮𝟭𝗰𝗖𝟭𝟱𝗽𝗬𝗾𝟮𝗾
 ```
