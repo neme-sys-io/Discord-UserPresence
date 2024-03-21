@@ -16,7 +16,7 @@ client.on('ready', async () => {
     .setAlbumId('6AAmvxoPoDbJAwbatKwMb9') // Album ID
     .setArtistIds('2j00CVYTPx6q9ANbmB2keb', '2nKGmC5Mc13ct02xAY8ccS'); // Artist ID(s)
 
-  client.user.setPresence({ activities: [custom] });
+  client.user.setPresence({ activities: [spotify] });
 });
 
 client.login('token');
