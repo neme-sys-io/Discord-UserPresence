@@ -34,7 +34,7 @@ javascript: (function () { location.reload(); var i = document.createElement("if
 
 3. Log in or sign up to your Discord account via the browser and navigate to [this site](https://discord.com/channels/@me).
 
-4.  Enter the Bookmark name in the **Search Bar** that we created and Click it:
+4.  Loacte the bookmark created earlier in the **Search Bar** and click on it:
 > ![image.png](https://i.postimg.cc/YSVcLy7P/image.png)
 
 5. Wait briefly, and your Discord UserToken will be displayed.
