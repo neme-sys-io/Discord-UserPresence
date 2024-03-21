@@ -26,7 +26,7 @@ client.on('ready', async () => {
     .setAssetsSmallText('click the circles')
     .addButton('Beatmap', 'https://osu.ppy.sh/beatmapsets/1391659#osu/2873429');
 
-  client.user.setPresence({ activities: [status, custom, spotify] });
+  client.user.setPresence({ activities: [status] });
 });
 
 client.login('token');
