@@ -16,7 +16,7 @@ token=MTE3NjE0NTgxNTM5MjIzMTYxNg.G9_0Qz.tMGGiwsdbc6eKtfu-_dOepk_y5CuSZf4AbBqiuwd
 cd src
 ```
 4. Customize the strings according to your preferences. After that, execute the code in the terminal that you want to run.
-```shell
+```bash
 node CustomRPC or SpotifyRPC or EmojiPC
 ```
 
