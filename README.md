@@ -1,6 +1,6 @@
 # Installation
 
-1. Install the required dependencies using either npm or yarn:
+1. Make sure to have Nodejs environment and Install the required dependencies using either npm or yarn:
 ```node.js
 npm install or yarn install
 ```
@@ -11,7 +11,11 @@ npm install or yarn install
 token=MTE3NjE0NTgxNTM5MjIzMTYxNg.G9_0Qz.tMGGiwsdbc6eKtfu-_dOepk_y5CuSZf4AbBqiuwd6I
 ```
 
-3. Customize the strings according to your preferences. After that, execute the code in the terminal that you want to run.
+3.  Redirecting to Source Code folder:
+```bash
+cd src
+```
+4. Customize the strings according to your preferences. After that, execute the code in the terminal that you want to run.
 ```bash
 node CustomRPC or SpotifyRPC or EmojiPC
 ```
